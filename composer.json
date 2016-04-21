@@ -1,0 +1,17 @@
+{
+    "name": "appnets/yii2-easy-extensions",
+    "description": "giiz, i18n,...",
+    "authors": [
+        {
+            "name": "Dang Bao Chung",
+            "email": "chungdb90@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "appnets\\": "src/appnets/"
+        }
+    },
+}
