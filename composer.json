@@ -1,13 +1,15 @@
 {
     "name": "appnets/yii2-easy-extensions",
     "description": "giiz, i18n,...",
+    "type":              "library",
+    "license":           "MIT",
+    "homepage":          "https://github.com/vmgame/yii2-easy-extensions",
     "authors": [
         {
             "name": "Dang Bao Chung",
             "email": "chungdb90@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
