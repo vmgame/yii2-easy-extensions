@@ -59,4 +59,10 @@ class Generator extends \yii\gii\generators\model\Generator
 
         return $files;
     }
+
+    public function formView()
+    {
+        return Yii::getAlias('@vendor/yiisoft/yii2-gii/generators/model/form.php');
+    }
+
 }
